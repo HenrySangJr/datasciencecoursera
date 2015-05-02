@@ -1,0 +1,5 @@
+This is a simple file created with VI in git on my local filesystem.
+I am going to commit it then push it to the repository.
+I want to see if the history looks right and indicates taht it comes from my'
+local GIT system
+Another line
